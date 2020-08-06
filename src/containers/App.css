@@ -1,0 +1,15 @@
+@import url(//db.onlinewebfonts.com/c/a222402127a0453c817a6cf4c3d9810b?family=Pokemon);
+@font-face {font-family: "Pokemon"; src: url("//db.onlinewebfonts.com/t/a222402127a0453c817a6cf4c3d9810b.eot"); src: url("//db.onlinewebfonts.com/t/a222402127a0453c817a6cf4c3d9810b.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/a222402127a0453c817a6cf4c3d9810b.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/a222402127a0453c817a6cf4c3d9810b.woff") format("woff"), url("//db.onlinewebfonts.com/t/a222402127a0453c817a6cf4c3d9810b.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/a222402127a0453c817a6cf4c3d9810b.svg#Pokemon") format("svg"); }
+
+body {
+  font-smooth: never;
+  -webkit-font-smoothing: none;
+  font-family: "pokemon-font", monospace;
+}
+
+
+h1 {
+  font-family: "Pokemon";
+  font-weight: 200;
+  color: #ffcb05;
+}
